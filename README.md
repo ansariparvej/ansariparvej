@@ -3,7 +3,7 @@
 <h1 align="center">🇮🇳 Hello <img width="45" src="waving_hand.gif"> Myself Parvej Ansari 🇮🇳</h1>
 <p align="center">
 </p>
-<h3 align="center">💼 Electrical Engineer cum Teacher cum Data Science and Analytics Professional 💼</h3>
+<h3 align="center">💼 Data Science and Analytics Professional cum Electrical Engineer cum Teacher 💼</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansariparvej&label=Profile%20views&color=0e75b6&style=flat" alt="ansariparvej" /> </p>
