@@ -3,7 +3,7 @@
 <h1 align="center">🇮🇳 Hello <img width="45" src="waving_hand.gif"> Myself Parvej Ansari 🇮🇳</h1>
 <p align="center">
 </p>
-<h3 align="center">💼 Electrical Engineer cum Teacher as well as Curious Learner cum Data Science and Analytics Professional 💼</h3>
+<h3 align="center">💼 Electrical Engineer cum Teacher cum Data Science and Analytics Professional 💼</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansariparvej&label=Profile%20views&color=0e75b6&style=flat" alt="ansariparvej" /> </p>
@@ -14,7 +14,7 @@
 
 - 🧘‍♂️ Interested in: **Python/Machine Learning/Deep Learning/Computer Vision/NLP**
 
-- 👨‍💻 Check Projects and Other Repos at:[👉 https://github.com/ansariparvej](https://github.com/ansariparvej?tab=repositories)
+- 👨‍💻 Check Projects and Other Repos at: [ 👉 https://github.com/ansariparvej](https://github.com/ansariparvej?tab=repositories)
 
 - 💬 Ask me about: **Electrical Engineering Domain Solutions using Data Science**
 
