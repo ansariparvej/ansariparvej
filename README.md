@@ -20,7 +20,7 @@
 
 - 📧 How to reach me: **ansarip82@gmail.com**
 
-- 🚣 Few Facts: **I am fond of food, meditation, playing footbool and watching science and spiritualiy related stuffs.**
+- 🚣 Few Facts: **I am fond of food, meditation, playing footbool and watching science and spirituality related stuffs.**
 
 <h3 align="left">🛜 Connect with me: 🛜</h3>
 <p align="left">
