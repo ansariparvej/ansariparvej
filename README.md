@@ -25,8 +25,10 @@
 <h3 align="left">🛜 Connect with me: 🛜</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ansariparvej/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="PARVEJ ANSARI" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ansarip82?hr_r=1/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="PARVEJ ANSARI" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/ansariparvejalam" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/kaggle-1.svg" alt="PARVEJ ANSARI" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ansarip82?hr_r=1/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="PARVEJ ANSARI" height="30" width="40" /></a>
+<a href="https://leetcode.com/ansariparvej/" target="blank"><img align="center" src="https://www.svgrepo.com/show/306328/leetcode.svg" alt="PARVEJ ANSARI" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ansari369" target="blank"><img align="center" src="https://www.svgrepo.com/show/305880/codechef.svg" alt="PARVEJ ANSARI" height="30" width="40" /></a>
 
 <h3 align="left">♾️ Languages and Tools: ♾️</h3>
 <p align="left"> 
