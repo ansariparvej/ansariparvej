@@ -29,6 +29,8 @@
 <a href="https://www.hackerrank.com/ansarip82?hr_r=1/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="PARVEJ ANSARI" height="30" width="40" /></a>
 <a href="https://leetcode.com/ansariparvej/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3772195-3151321.png" alt="PARVEJ ANSARI" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ansari369" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=O4SEeX66BY8o&format=png" alt="PARVEJ ANSARI" height="30" width="40" /></a>
+<a href="https://gitlab.com/ansariparvej" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="PARVEJ ANSARI" height="30" width="40" /></a>
+
 
 <h3 align="left">♾️ Languages and Tools: ♾️</h3>
 <p align="left"> 
